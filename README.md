@@ -12,7 +12,7 @@ This project is a simulation of a GridWorld environment implemented using Python
 - Implementation of Gradient Monte Carlo and Semi-Gradient TD(0) algorithms in a 7x7 grid with different specific states and rewards.
 
 ## Report
-For a comprehensive explanation of the theory and detailed results achieved through the implementation of various algorithms, please refer to the `Project_Report.pdf` file. This document provides in-depth information and insights into the methodologies used and the outcomes of the project.
+For a comprehensive explanation of the theory and detailed results achieved through the implementation of various algorithms, please refer to the `Project3_Report.pdf` file. This document provides in-depth information and insights into the methodologies used and the outcomes of the project.
 
 ## Authors
 - [Himani Thakkar](https://github.com/hiimani28)
