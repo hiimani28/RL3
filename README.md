@@ -15,8 +15,8 @@ This project is a simulation of a GridWorld environment implemented using Python
 For a comprehensive explanation of the theory and detailed results achieved through the implementation of various algorithms, please refer to the `Project_Report.pdf` file. This document provides in-depth information and insights into the methodologies used and the outcomes of the project.
 
 ## Authors
-- Parinaz Shiri
-- Himani Thakkar
+- [Himani Thakkar](https://github.com/hiimani28)
+- [Parinaz Shiri](https://github.com/parinaz-shiri)
 
 ## Libraries Used
 - Python 3.x
